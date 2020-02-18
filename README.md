@@ -15,3 +15,6 @@ The following figure shows the result of a deep learning system on KPI and it il
 
   
 ![Image of Linkedin](https://github.com/m-r-tanha/Predict-Time-Series-Trend-with-RNN-recurrent-Neural-Network-/blob/master/0.png)
+
+
+Different Activation functions and optimizers have been implemented and finally the "Tanh" and "Adagrad" have the best performance 
