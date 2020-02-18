@@ -1,6 +1,6 @@
 # Predict-Time-Series-Trend-with-RNN-recurrent-Neural-Network-
 
-![prediction](https://github.com/m-r-tanha/Predict-Time-Series-Trend-with-RNN-recurrent-Neural-Network-/blob/master/RNN%20for%20500%20epoch.png)
+![prediction](https://github.com/m-r-tanha/Predict-Time-Series-Trend-with-RNN-recurrent-Neural-Network-/blob/master/Tanh_Adagrad.png)
 
 <p4>
 First Simple RNN code to predict a trend
