@@ -1,4 +1,4 @@
-# Predict-Time-Series-Trend-with-RNN-(Recurrent-Neural-Network)
+# Time-Series-Prediction-with-RNN-(Recurrent-Neural-Network)
 
 ![prediction](https://github.com/m-r-tanha/Predict-Time-Series-Trend-with-RNN-recurrent-Neural-Network-/blob/master/Tanh_Adagrad.png)
 
